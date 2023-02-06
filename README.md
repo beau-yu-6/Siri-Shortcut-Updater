@@ -1,2 +1,0 @@
-# Siri-Shortcut-Updater
- 
