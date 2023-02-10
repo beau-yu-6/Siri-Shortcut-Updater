@@ -1,4 +1,5 @@
 {
-    "version": "1", 
-    "updateLoc": " "
+    "ver": "2", 
+    "updateLoc": " ",
+    "updateLog": "This is a test."
 }
