@@ -1,6 +1,6 @@
 {
-    "ver": "1", 
-    "iosVer": "16",
-    "updateLoc": "https://www.icloud.com/shortcuts/0219a1176ac24e36b342aaa7483457f4",
-    "updateLog": "Initial version"
+    "ver": "2", 
+    "iosVer": "18",
+    "updateLoc": "https://www.icloud.com/shortcuts/bf488e84eede4b9cb00e4a444caa37b2",
+    "updateLog": "修正在 iOS 18.4 中，時間被使用簡體中文顯示的問題"
 }
